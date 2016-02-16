@@ -10,7 +10,7 @@
 #  Public Source Code Repository:
 #    - https://source.codetrax.org/hgroot/django-taggit-autocomplete-modified
 #
-#  Copyright 2011 George Notaras <gnot [at] g-loaded.eu>
+#  Copyright 2011-2016 George Notaras <gnot [at] g-loaded.eu>
 #
 #  Licensed under the Apache License, Version 2.0 (the "License");
 #  you may not use this file except in compliance with the License.

@@ -47,7 +47,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'django-taggit-autocomplete-modified'
-copyright = u'2011, George Notaras'
+copyright = u'2011-2016, George Notaras'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -228,7 +228,7 @@ man_pages = [
 epub_title = u'django-taggit-autocomplete-modified'
 epub_author = u'George Notaras'
 epub_publisher = u'George Notaras'
-epub_copyright = u'2011, George Notaras'
+epub_copyright = u'2011-2016, George Notaras'
 
 # The language of the text. It defaults to the language option
 # or en if the language is not set.

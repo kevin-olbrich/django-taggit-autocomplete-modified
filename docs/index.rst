@@ -7,7 +7,7 @@
 django-taggit-autocomplete-modified's documentation
 ===================================================
 
-Copyright 2011 `George Notaras`_ <gnot [at] g-loaded.eu>
+Copyright 2011-2016 `George Notaras`_ <gnot [at] g-loaded.eu>
 
 .. _`George Notaras`: http://www.g-loaded.eu/
 
