@@ -31,7 +31,7 @@ from django.conf import settings
 from taggit.forms import TagField
 from taggit.managers import TaggableManager
 
-from widgets import TagAutocomplete
+from .widgets import TagAutocomplete
 
 
 class TaggableManagerAutocomplete(TaggableManager):
